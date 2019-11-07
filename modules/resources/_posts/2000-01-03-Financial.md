@@ -5,7 +5,7 @@ title: Financial Wellness
 # Food
 
 Harvesters Mobile Pantry has been a wonderful resource for previous VISTAs. Their drive-up food pantry operates daily across KCMO and KCK. 
-A list of times and locations is published every year and is available online. The yummiest local stop, , is only $2 for VISTAs! 
+A list of times and locations is published every year and is available online. The yummiest local stop, Thelma's Kitchen, is only $2 for VISTAs! 
 
 # SNAP
 
