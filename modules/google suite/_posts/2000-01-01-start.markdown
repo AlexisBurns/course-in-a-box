@@ -1,6 +1,10 @@
 ---
-title: Google suite
+title: Google Suite
 ---
 
-# Heading 1 for google suite
+# Staying Organized 
+
+During your first week, you will be sent your own Google Drive. This will include your timesheets for your entire year, and a template for your monthly reports. Keep track of your hours! At the end of every work day jot down what you did! This is the easiest way to keep track of the impact you are having, and share measurables with your supervisors. 
+
+The drive also comes in handy as a central location for all things VISTA. Every organization does not share the same suite of apps, so the drive is a universally accessible way to maintain documents, spreadsheets, and contacts. Feel free to keep any other materials you find relevant in this drive. Only you and the VISTA Coordinator can see it! 
 
