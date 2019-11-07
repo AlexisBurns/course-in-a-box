@@ -12,3 +12,5 @@ A great example of capacity building within the Library's VISTA project is the *
 # Direct Service 
 
 This is the act of providing services to recipients or clients of a program. While you may find yourself delivering services to the patrons of your organizations from time to time, the core value of VISTA is sustainability. Simply ask yourself, if I were not here could this orgnaization maintain the work I am doing? During your year of service, look at the big picture! VISTAs are here to make an impact- strive to leave an organization better than you found it!  
+
+![test logo](//github.com/AlexisBurns/hello-world/blob/master/acvista_0.jpg)
