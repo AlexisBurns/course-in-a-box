@@ -3,11 +3,9 @@ layout: index
 published: true
 ---
 
-## Welcome to the Kansas City Public Library VISTA Project! 
+## Welcome Onboard! 
 
-As an intermediary, the Library partners with local organizations serving as AmeriCorps VISTA member host sites. AmeriCorps VISTA members provide a year of service, bringing their passion and perseverance where the need is greatest: to organizations that help eradicate poverty.
+The Kansas City Public Library is happy to have VISTAs serving in the Metro. As an intermediary, the Library partners with local organizations to host VISTAs. So whether you are working here at KCPL or at another site, we are all a team! You are welcome to visit this site if you ever need additional resources, or just to refresh your memory. Let's get started!
 
-## We are always learning and growing!
-
-This course is designed to give an overview of expectations within the VISTA Project. You can return to this site at any time for resources or to refresh your memory!
+## Thank you for joining our team!
 
